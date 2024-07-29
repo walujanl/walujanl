@@ -6,5 +6,6 @@ Hi, my name is Leonard Walujan from Manado, Indonesia.
 - **Email:** [leonard@walujan.com](mailto:leonard@walujan.com)
 
 ## Reach me out
-- **Facebook:** [@leonardwalujan](https://www.facebook.com/leonardwalujan)
+- **Facebook:** [@leonard.walujan](https://www.facebook.com/leonard.walujan)
+- **Instagram:** [@leonard.walujan](https://www.instagram.com/leonard.walujan)
 - **LinkedIn:** [@walujan](https://www.linkedin.com/in/walujan)
